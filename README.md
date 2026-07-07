@@ -113,7 +113,7 @@ This project includes SQL queries for analyzing:
 - Aspiring Data Analyst
 - Skilled in SQL, Excel, Power BI, Tableau, and Python
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/tarun-1719
 
 ---
 
