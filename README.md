@@ -1,4 +1,4 @@
-# 📊 tarunSQL Corp – Executive Analytics Dashboard (SQL Project)
+# 📊 TarunSQL Corp – Executive Analytics Dashboard (SQL Project)
 
 ## 📌 Project Overview
 
